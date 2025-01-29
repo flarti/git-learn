@@ -2,3 +2,6 @@ dirt
 cobblestone
 glass
 bamboo
+
+villagers
+pillagers
