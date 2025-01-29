@@ -1,2 +1,4 @@
 dirt
 cobblestone
+glass
+bamboo
