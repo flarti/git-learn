@@ -5,3 +5,5 @@ bamboo
 
 villagers
 pillagers
+
+nether world
